@@ -48,8 +48,8 @@ make docker-down
 
 ### Example
 
-![alt text](image-2.png)
+![alt text](sale_amount.png)
 
-![alt text](image-3.png)
+![alt text](points.png)
 
 
