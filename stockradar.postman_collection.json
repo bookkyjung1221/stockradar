@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "18de719a-0b70-4959-bbe4-7866a8ce5cc5",
+		"name": "stockradar",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "31220486"
+	},
+	"item": [
+		{
+			"name": "sale_amount",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/user/sale_amount/p9sizJ3nNv",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"user",
+						"sale_amount",
+						"p9sizJ3nNv"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "points",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:8080/user/point/p9sizJ3nNv",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"user",
+						"point",
+						"p9sizJ3nNv"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
